@@ -1,0 +1,5 @@
+#!/bin/bash
+
+repoNam=`pwd`
+mkdir pooc_gecko
+
